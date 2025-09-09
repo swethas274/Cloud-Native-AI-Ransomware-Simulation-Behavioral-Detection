@@ -1,0 +1,13 @@
+# Ignore all data files and directories
+data/
+
+# Ignore trained model files
+models/
+
+# Ignore Python bytecode and cache
+__pycache__/
+*.pyc
+
+# Ignore any API keys or secrets
+*.key
+.env
